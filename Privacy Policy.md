@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Effective Date: [Insert Date]
+## Effective Date: March 8, 2023
 
 Welcome to ELISE ("we" or "us"). At ELISE, we prioritize the protection of your privacy and are dedicated to safeguarding your personal information. This Privacy Policy aims to provide a comprehensive overview of how we collect, use, and protect your information when you access and use our application (the "Application"). Please take the time to carefully review this Privacy Policy to understand our practices concerning your information.
 
@@ -50,11 +50,11 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 ### 7. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at [contact email].
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at artemis.sustainability@gmail.com.
 
 ### 8. Liability Disclaimer
 
-ELISE and its team members shall not be liable for any damages, losses, or liabilities arising from the use of the Application or any information collected therein. While we strive to maintain the security and confidentiality of your information, we cannot guarantee absolute protection against unauthorized access or disclosure. By using our Application, you acknowledge and accept the inherent risks associated with data transmission over the internet.
+ELISE and its team members shall not be liable for any damages, losses, or liabilities arising from the use of the Application or any information collected therein. While we strive to maintain the security and confidentiality of your information, we cannot guarantee absolute protection against unauthorized access or disclosure. By using our Application, you acknowledge and accept the inherent risks associated with data transmission over the Internet.
 
 ### 9. Data Disclosure and Handling Procedures
 
