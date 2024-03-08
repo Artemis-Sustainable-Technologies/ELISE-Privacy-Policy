@@ -1,9 +1,8 @@
-# ELISE-Privacy-Policy
-ELISe's privacy policy ensures your data's security and confidentiality. We collect and use information responsibly, respecting your choices and privacy rights. Please feel free to contact us for any questions.
+# Privacy Policy
 
-## Effective Date: March 8, 2023
+## Effective Date: [Insert Date]
 
-Welcome to ELISE ("we" or "us"). At ELISE, we prioritize protecting your privacy and are dedicated to safeguarding your personal information. This Privacy Policy aims to provide a comprehensive overview of how we collect, use, and protect your information when you access and use our application (the "Application"). Please take the time to carefully review this Privacy Policy to understand our practices concerning your information.
+Welcome to ELISE ("we" or "us"). At ELISE, we prioritize the protection of your privacy and are dedicated to safeguarding your personal information. This Privacy Policy aims to provide a comprehensive overview of how we collect, use, and protect your information when you access and use our application (the "Application"). Please take the time to carefully review this Privacy Policy to understand our practices concerning your information.
 
 ### 1. Information We Collect
 
@@ -51,10 +50,15 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 ### 7. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our privacy practices, don't hesitate to get in touch with us at artemis.sustainability@gmail.com.
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at [contact email].
 
 ### 8. Liability Disclaimer
 
-ELISE and its team members shall not be liable for any damages, losses, or liabilities arising from the use of the Application or any information collected therein. While we strive to maintain the security and confidentiality of your information, we cannot guarantee absolute protection against unauthorized access or disclosure. By using our Application, you acknowledge and accept the inherent risks associated with data transmission over the Internet.
+ELISE and its team members shall not be liable for any damages, losses, or liabilities arising from the use of the Application or any information collected therein. While we strive to maintain the security and confidentiality of your information, we cannot guarantee absolute protection against unauthorized access or disclosure. By using our Application, you acknowledge and accept the inherent risks associated with data transmission over the internet.
+
+### 9. Data Disclosure and Handling Procedures
+
+ELISE comprehensively discloses how the app accesses, collects, uses, and shares user data. This includes disclosing the types of personal and sensitive user data accessed, collected, used, and shared, as well as any parties with which such data is shared. We maintain secure data handling procedures for personal and sensitive user data, ensuring compliance with applicable laws and regulations. Additionally, we have a data retention and deletion policy in place to securely manage user data throughout its lifecycle.
 
 Thank you for choosing ELISE. We value your trust and are committed to protecting your privacy and ensuring the security of your information.
+
